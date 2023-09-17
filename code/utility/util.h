@@ -26,8 +26,8 @@ extern "C" {
 #define TOLERANCE 10e-7
 
 // Folders
-#define MATRIX_FOLDER "./data/matrix/"
-#define CSV_FOLDER "./data/csv/"
+#define MATRIX_FOLDER "../data/matrix/"
+#define CSV_FOLDER "../data/csv/"
 
 // CSV names
 #define CSV_CSR_CPU CSV_FOLDER "cpu_csr.csv"
